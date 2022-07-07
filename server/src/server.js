@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 const PORT = process.env.PORT || 5000;
 
 const MONGO_URL =
-  "mongodb+srv://nasa-api:2dAdJsc6KorEpEaP@nasacluster.iygrw.mongodb.net/?retryWrites=true&w=majority";
+  "YOUR MONGO_URL";
 
 const server = http.createServer(app);
 
